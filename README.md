@@ -1,0 +1,2 @@
+# BetterNPCs
+ Objectively better NPCs.

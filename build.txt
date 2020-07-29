@@ -1,0 +1,3 @@
+displayName = Better NPCs
+author = convicted tomatophile (Stevie)
+version = 0.1
