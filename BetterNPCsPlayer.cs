@@ -10,15 +10,11 @@ namespace BetterNPCs
         public override void Initialize()
         {
             displayWelcomeText = true;
-
-            base.Initialize();
         }
 
         public override void Load(TagCompound tag)
         {
             displayWelcomeText = tag.GetBool("displayWelcomeText");
-
-            base.Load(tag);
         }
 
         public override TagCompound Save()

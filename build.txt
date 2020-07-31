@@ -2,3 +2,6 @@ displayName = Better NPCs
 author = convicted tomatophile (Stevie)
 version = 1.0.0
 side = both
+modReferences = ShaderLib@2.1.2
+dllReferences = ShaderLib_v2.1.2
+sortAfter = ShaderLib
